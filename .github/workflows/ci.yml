@@ -1,6 +1,6 @@
 name: First CI Job
 
-on:[push]
+on:  [push]
 
 jobs:
    simple-job:
